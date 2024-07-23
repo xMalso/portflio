@@ -81,7 +81,7 @@
 
     <footer id="footer">
         <a href="index.php" id="stranded-link">Home</a>
-        <br> Copyright free if you follow my twitch :)
+        <br> 
     </footer>
 
 
